@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>9ab98b66288df7b4fa182075f2f12bd6</guid>
+    <fileName>Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.3046788-03:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.CrossPlatformInput.AxisTouchButton</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>85bf3be603548374ca46f521a3aa7fda</guid>
+    <fileName>Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.3066733-03:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.CrossPlatformInput.ButtonHandler</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6ac1ce5a5adfd9f46adbf5b6f752a47c</guid>
+    <fileName>Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.3086679-03:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.CrossPlatformInput.CrossPlatformInputManager</string>
+      <string>UnityStandardAssets.CrossPlatformInput.CrossPlatformInputManager+ActiveInputMethod</string>
+      <string>UnityStandardAssets.CrossPlatformInput.CrossPlatformInputManager+VirtualAxis</string>
+      <string>UnityStandardAssets.CrossPlatformInput.CrossPlatformInputManager+VirtualButton</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7d3269566d48b8447bb48d2259e28f8b</guid>
+    <fileName>Assets/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.310663-03:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.CrossPlatformInput.InputAxisScrollbar</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>00c3c865782347f41b6358d9fba14b48</guid>
+    <fileName>Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.3126569-03:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.CrossPlatformInput.Joystick</string>
+      <string>UnityStandardAssets.CrossPlatformInput.Joystick+AxisOption</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>71398ce7fbc3a5b4fa50b50bd54317a7</guid>
+    <fileName>Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.3146524-03:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.CrossPlatformInput.MobileControlRig</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5c2d84226fbbaf94e9c1451f1c39b06a</guid>
+    <fileName>Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.3226305-03:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.CrossPlatformInput.TiltInput</string>
+      <string>UnityStandardAssets.CrossPlatformInput.TiltInput+AxisOptions</string>
+      <string>UnityStandardAssets.CrossPlatformInput.TiltInput+AxisMapping</string>
+      <string>UnityStandardAssets.CrossPlatformInput.Inspector.TiltInputAxisStylePropertyDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1caf40fc8bebb6b43b2550c05ca791d6</guid>
+    <fileName>Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.3236284-03:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.CrossPlatformInput.TouchPad</string>
+      <string>UnityStandardAssets.CrossPlatformInput.TouchPad+AxisOption</string>
+      <string>UnityStandardAssets.CrossPlatformInput.TouchPad+ControlStyle</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0f57aeb1b8dce3342bea5c28ac17db24</guid>
+    <fileName>Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.3256232-03:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.CrossPlatformInput.VirtualInput</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9703d53e47195aa4190acd11369ccd1b</guid>
+    <fileName>Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.3196386-03:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.CrossPlatformInput.PlatformSpecific.MobileInput</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9961032f4f02c4f41997c3ea399d2f22</guid>
+    <fileName>Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.3196386-03:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.CrossPlatformInput.PlatformSpecific.StandaloneInput</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>db7667203062c644ea1877077e30ebd6</guid>
+    <fileName>Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.3535483-03:00</timeStamp>
+    <typeFullName>
+      <string>UnityStandardAssets.CrossPlatformInput.Inspector.CrossPlatformInitialize</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6f2c0fd13f30e5b4998a4c179b415592</guid>
+    <fileName>Assets/Boss.cs</fileName>
+    <timeStamp>2020-06-25T01:28:01.2863043-03:00</timeStamp>
+    <typeFullName>
+      <string>Boss</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>768ef3b658d193443ab8d46cc102a075</guid>
+    <fileName>Assets/BossBullet.cs</fileName>
+    <timeStamp>2020-06-19T20:23:28.3105915-03:00</timeStamp>
+    <typeFullName>
+      <string>BossBullet</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3eb3a4a45156b8d49b190e9b7ce4a090</guid>
+    <fileName>Assets/bullet.cs</fileName>
+    <timeStamp>2020-04-09T02:38:49.3791543-03:00</timeStamp>
+    <typeFullName>
+      <string>bullet</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9d96ab0a91a0ef240a7472e3cbb2911d</guid>
+    <fileName>Assets/Cenario.cs</fileName>
+    <timeStamp>2020-04-09T02:38:49.3811485-03:00</timeStamp>
+    <typeFullName>
+      <string>Cenario</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>551d5f23f3c39da469de7c6d8a8636ed</guid>
+    <fileName>Assets/controlar_hud_menu.cs</fileName>
+    <timeStamp>2020-06-24T16:09:14.4050932-03:00</timeStamp>
+    <typeFullName>
+      <string>controlar_hud_menu</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2a09b38ddae9b1d45850c02e4ffbd83d</guid>
+    <fileName>Assets/ControllerCaptura.cs</fileName>
+    <timeStamp>2020-06-24T23:56:34.1307305-03:00</timeStamp>
+    <typeFullName>
+      <string>ControllerCaptura</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a333d091205b9dc47ad4bf76ee6a9d0b</guid>
+    <fileName>Assets/feedback.cs</fileName>
+    <timeStamp>2020-04-09T02:38:49.4080767-03:00</timeStamp>
+    <typeFullName>
+      <string>feedback</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ff87433decc632949a49e159978a8fa6</guid>
+    <fileName>Assets/getScreen.cs</fileName>
+    <timeStamp>2020-04-09T02:38:49.5516923-03:00</timeStamp>
+    <typeFullName>
+      <string>getScreen</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aac81ada23bef4b4281ed6a480d746ce</guid>
+    <fileName>Assets/Plataforma_Cai.cs</fileName>
+    <timeStamp>2020-04-09T02:38:49.9456389-03:00</timeStamp>
+    <typeFullName>
+      <string>Plataforma_Cai</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>122ce162af96f3840a882852644a4f0b</guid>
+    <fileName>Assets/SpwanLife.cs</fileName>
+    <timeStamp>2020-06-25T01:04:38.2527349-03:00</timeStamp>
+    <typeFullName>
+      <string>SpwanLife</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>52cf0c1cad7be994cb5dc0d0dd7a05ee</guid>
+    <fileName>Assets/AssetBundle/TelasLivres/StoryBoard.cs</fileName>
+    <timeStamp>2020-04-09T02:38:49.3771595-03:00</timeStamp>
+    <typeFullName>
+      <string>StoryBoard</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d16efee01f2a6d94e9a0395c18c17905</guid>
+    <fileName>Assets/Imagens/Plataformas/PlataformasMoveis.cs</fileName>
+    <timeStamp>2020-04-09T02:38:49.8778205-03:00</timeStamp>
+    <typeFullName>
+      <string>PlataformasMoveis</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f53abd76b63332a4bb2acec9f278e1a1</guid>
+    <fileName>Assets/Scripts/Login.cs</fileName>
+    <timeStamp>2020-06-24T18:35:39.8560326-03:00</timeStamp>
+    <typeFullName>
+      <string>Login</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>55871eded383e8c4b82cdc16d303f1ee</guid>
+    <fileName>Assets/Scripts/Dados/CapturaDados.cs</fileName>
+    <timeStamp>2020-07-01T23:07:48.7150592-03:00</timeStamp>
+    <typeFullName>
+      <string>CapturaDados</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6c22f213e11de6845918bef549b1a683</guid>
+    <fileName>Assets/Scripts/Dados/CapturaFase.cs</fileName>
+    <timeStamp>2020-06-27T12:29:00.3396805-03:00</timeStamp>
+    <typeFullName>
+      <string>CapturaFase</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e58e6feafcdb5504abdc09a50103a125</guid>
+    <fileName>Assets/Scripts/Dados/CapturaSecoes.cs</fileName>
+    <timeStamp>2020-07-01T23:03:06.552497-03:00</timeStamp>
+    <typeFullName>
+      <string>CapturaSecoes</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1229703f275964a70808348ccb76c5e9</guid>
+    <fileName>Assets/Scripts/GBL/GBL_Interface.cs</fileName>
+    <timeStamp>2020-04-29T20:27:11.7834027-03:00</timeStamp>
+    <typeFullName>
+      <string>GBL_Interface</string>
+      <string>GBL_Interface+durationSlots</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>44833c4e7c39748a9b246a9f3edba95f</guid>
+    <fileName>Assets/Scripts/GBL/Main.cs</fileName>
+    <timeStamp>2019-06-19T13:16:12-03:00</timeStamp>
+    <typeFullName>
+      <string>Main</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>378864f1810f1499d9c921b7fbf24312</guid>
+    <fileName>Assets/Scripts/GBL/ObjectRotation.cs</fileName>
+    <timeStamp>2019-06-19T13:16:14-03:00</timeStamp>
+    <typeFullName>
+      <string>ObjectRotation</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5f95ae7d7d3a8478aaa57626231cde08</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/GBLXAPI.cs</fileName>
+    <timeStamp>2019-06-19T13:16:26-03:00</timeStamp>
+    <typeFullName>
+      <string>DIG.GBLXAPI.GBLXAPI</string>
+      <string>DIG.GBLXAPI.GBLXAPI+QueuedStatement</string>
+      <string>DIG.GBLXAPI.GBLXAPI+StatementCallbackHandler</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6357e0c0df4974a229b984784d8dfdf7</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/RemoteLRSAsync.cs</fileName>
+    <timeStamp>2019-06-19T13:16:22-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.RemoteLRSAsync</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b70cb376f25574dd2a58a960cf88d377</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/RingBuffer.cs</fileName>
+    <timeStamp>2019-06-19T13:16:28-03:00</timeStamp>
+    <typeFullName>
+      <string>DisruptorUnity3d.RingBuffer`1</string>
+      <string>DisruptorUnity3d.Volatile</string>
+      <string>DisruptorUnity3d.Volatile+PaddedLong</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e0fdf307520f14e978d2603411e1d094</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/About.cs</fileName>
+    <timeStamp>2019-06-19T13:17:36-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.About</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2f9bfa129a81f460c9057364f187e1e8</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/Activity.cs</fileName>
+    <timeStamp>2019-06-19T13:17:38-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.Activity</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>90d5f61cd6a20414181ddbc2cc399a6c</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/ActivityDefinition.cs</fileName>
+    <timeStamp>2019-06-19T13:17:14-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.ActivityDefinition</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>04c981ab5007b4b9eb1c4ff6f77c84ae</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/Agent.cs</fileName>
+    <timeStamp>2019-06-19T13:17:00-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.Agent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cb913efc4552d4bc0aeb7ef929a2e124</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/AgentAccount.cs</fileName>
+    <timeStamp>2019-06-19T13:17:46-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.AgentAccount</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>14b6735cbe6414aff92c8e384241fd6b</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/Context.cs</fileName>
+    <timeStamp>2019-06-19T13:17:00-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.Context</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0c2e2750d61f44ad69a4364fca387b1e</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/ContextActivities.cs</fileName>
+    <timeStamp>2019-06-19T13:17:32-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.ContextActivities</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1c827562a89bd4b14b917bb3cb1927e0</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/Extensions.cs</fileName>
+    <timeStamp>2019-06-19T13:17:04-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.Extensions</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>403327afab4bc4175bff23469a04c03e</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/Group.cs</fileName>
+    <timeStamp>2019-06-19T13:16:58-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.Group</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1b222bb8d252341a5a0a9fadcb5e7e9e</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/ILRS.cs</fileName>
+    <timeStamp>2019-06-19T13:17:30-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.ILRS</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d0ca011c4da6f4ba78a5ffd446d8c9f3</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/InteractionComponent.cs</fileName>
+    <timeStamp>2019-06-19T13:17:44-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.InteractionComponent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>517fb315436144df0ae647e9810fde5f</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/LanguageMap.cs</fileName>
+    <timeStamp>2019-06-19T13:17:12-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.LanguageMap</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>67875c45ee70c46d095ce8f094c392c5</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/RemoteLRS.cs</fileName>
+    <timeStamp>2019-06-19T13:17:36-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.RemoteLRS</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b5157bebb9677460cab91fc362d112f3</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/Result.cs</fileName>
+    <timeStamp>2019-06-19T13:17:04-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.Result</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>02c5b1d33e75f49efbff9d3165ea2113</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/Score.cs</fileName>
+    <timeStamp>2019-06-19T13:17:10-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.Score</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d6a5d7bc926f047deb1239641632e713</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/Statement.cs</fileName>
+    <timeStamp>2019-06-19T13:17:42-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.Statement</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5bb96f0ca2c9d4b2f944422b90390d8d</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/StatementBase.cs</fileName>
+    <timeStamp>2019-06-19T13:17:10-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.StatementBase</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>05e6509c179434cc0af1b3171d7a7169</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/StatementRef.cs</fileName>
+    <timeStamp>2019-06-19T13:17:26-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.StatementRef</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>40ecf4ea3b7ea4b848c0ecfadef133cb</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/StatementsQuery.cs</fileName>
+    <timeStamp>2019-06-19T13:17:24-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.StatementsQuery</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>183d132ad47a64587a292fba17ad1c37</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/StatementsQueryResultFormat.cs</fileName>
+    <timeStamp>2019-06-19T13:17:26-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.StatementsQueryResultFormat</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0286688956e5c4affa3033625c76df5e</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/StatementsResult.cs</fileName>
+    <timeStamp>2019-06-19T13:17:18-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.StatementsResult</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bc2ff730f19324b89bad009431b2f540</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/StatementTarget.cs</fileName>
+    <timeStamp>2019-06-19T13:17:18-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.StatementTarget</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>87d18ab96613d490bb5c699dbc9f944e</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/SubStatement.cs</fileName>
+    <timeStamp>2019-06-19T13:17:02-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.SubStatement</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>efc2b9614782c469baf634712494508c</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/TCAPIVersion.cs</fileName>
+    <timeStamp>2019-06-19T13:17:18-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.TCAPIVersion</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8f53a460e58c14753ac78405fea06657</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/Verb.cs</fileName>
+    <timeStamp>2019-06-19T13:17:20-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.Verb</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7468357170aed426197c810f5a9a07a1</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/Documents/ActivityProfileDocument.cs</fileName>
+    <timeStamp>2019-06-19T13:16:20-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.Documents.ActivityProfileDocument</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e580b580b2e534946b6d487432c60d6b</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/Documents/AgentProfileDocument.cs</fileName>
+    <timeStamp>2019-06-19T13:16:22-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.Documents.AgentProfileDocument</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b34f33110261c4ec48ca69023e2eddf5</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/Documents/Document.cs</fileName>
+    <timeStamp>2019-06-19T13:16:18-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.Documents.Document</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9fd929f24d25a46eb83d18f591ef291e</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/Documents/StateDocument.cs</fileName>
+    <timeStamp>2019-06-19T13:16:22-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.Documents.StateDocument</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3cb8bc30b5299429484b0864e33eec34</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/json/IJsonModel.cs</fileName>
+    <timeStamp>2019-06-19T13:16:10-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.Json.IJsonModel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7c53b9a511e054f1aab887e6e6a8c255</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/json/JsonModel.cs</fileName>
+    <timeStamp>2019-06-19T13:16:06-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.Json.JsonModel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>961f8f7ebf86449da9790e7a9b8574b2</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/json/StringOfJSON.cs</fileName>
+    <timeStamp>2019-06-19T13:16:08-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.Json.StringOfJSON</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>49f8ebc87553e4c3aa57d97d59a0cb32</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/LRSResponses/AboutLRSResponse.cs</fileName>
+    <timeStamp>2019-06-19T13:16:42-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.LRSResponses.AboutLRSResponse</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f5817ec36086b4ece923f49401efef6d</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/LRSResponses/ActivityProfileLRSResponse.cs</fileName>
+    <timeStamp>2019-06-19T13:16:32-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.LRSResponses.ActivityProfileLRSResponse</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>50e35ec32efdb43379384a6a61473091</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/LRSResponses/AgentProfileLRSResponse.cs</fileName>
+    <timeStamp>2019-06-19T13:16:36-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.LRSResponses.AgentProfileLRSResponse</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ed867016787bb411795100ed2429bc7e</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/LRSResponses/LRSResponse.cs</fileName>
+    <timeStamp>2019-06-19T13:16:42-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.LRSResponses.LRSResponse</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ddd4c310e5ed34daba681eb37b1784a5</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/LRSResponses/ProfileKeysLRSResponse.cs</fileName>
+    <timeStamp>2019-06-19T13:16:32-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.LRSResponses.ProfileKeysLRSResponse</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2921214d19d394e17b786aa07d5fed13</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/LRSResponses/StateLRSResponse.cs</fileName>
+    <timeStamp>2019-06-19T13:16:40-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.LRSResponses.StateLRSResponse</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>afe958b28a52a4b4daf5a7f2bddced64</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/LRSResponses/StatementLRSResponse.cs</fileName>
+    <timeStamp>2019-06-19T13:16:40-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.LRSResponses.StatementLRSResponse</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0ce24bae631c44f9891114430cc4bf86</guid>
+    <fileName>Assets/Scripts/GBL/GBLXAPI/TinCan/LRSResponses/StatementsResultLRSResponse.cs</fileName>
+    <timeStamp>2019-06-19T13:16:36-03:00</timeStamp>
+    <typeFullName>
+      <string>TinCan.LRSResponses.StatementsResultLRSResponse</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>560f0c9df1dd8ee498f17abd98e57123</guid>
+    <fileName>Assets/Scripts/Jogo/Atirar.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.2258896-03:00</timeStamp>
+    <typeFullName>
+      <string>Atirar</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1144ca812a6d1364ba5ff9ddfa0f32bc</guid>
+    <fileName>Assets/Scripts/Jogo/Controlador_HUD.cs</fileName>
+    <timeStamp>2020-07-02T01:35:24.7188183-03:00</timeStamp>
+    <typeFullName>
+      <string>Controlador_HUD</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>19c09c753b105ca4693464031934b195</guid>
+    <fileName>Assets/Scripts/Jogo/EnergiaPositiva.cs</fileName>
+    <timeStamp>2020-04-24T18:20:27.3625513-03:00</timeStamp>
+    <typeFullName>
+      <string>EnergiaPositiva</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7380c2acf9d6c274a8405551a0893b63</guid>
+    <fileName>Assets/Scripts/Jogo/Inimigo.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.2338678-03:00</timeStamp>
+    <typeFullName>
+      <string>Inimigo</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5019d6597c0f6244383aec70a1064773</guid>
+    <fileName>Assets/Scripts/Jogo/Movimento.cs</fileName>
+    <timeStamp>2020-04-16T23:33:04.4908321-03:00</timeStamp>
+    <typeFullName>
+      <string>Movimento</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0ad9ff873c9aacc4881149774722f3a8</guid>
+    <fileName>Assets/Scripts/Jogo/Personagem.cs</fileName>
+    <timeStamp>2020-07-02T01:25:44.3859702-03:00</timeStamp>
+    <typeFullName>
+      <string>Personagem</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>788263f7265030443810316834f13832</guid>
+    <fileName>Assets/Scripts/Jogo/PlataformaNegativas.cs</fileName>
+    <timeStamp>2020-06-27T13:08:29.2466955-03:00</timeStamp>
+    <typeFullName>
+      <string>PlataformaNegativas</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>82d543c7f7537e84bbe6bc3dbee9853d</guid>
+    <fileName>Assets/Scripts/Jogo/vida.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.2458359-03:00</timeStamp>
+    <typeFullName>
+      <string>vida</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2f50d982c3bca58429f94927bae0d994</guid>
+    <fileName>Assets/Scripts/MENU/Menu.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.2508226-03:00</timeStamp>
+    <typeFullName>
+      <string>Menu</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9bb41b93bd42df9438979e376703310e</guid>
+    <fileName>Assets/Scripts/MusicaForaDoJogo/MusicaForaDoJogo.cs</fileName>
+    <timeStamp>2020-06-25T01:16:49.0028416-03:00</timeStamp>
+    <typeFullName>
+      <string>MusicaForaDoJogo</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d599085fe6c352844923d2a83d34e01b</guid>
+    <fileName>Assets/Scripts/Seletion/SeletionFase.cs</fileName>
+    <timeStamp>2020-06-24T23:56:47.2638985-03:00</timeStamp>
+    <typeFullName>
+      <string>SeletionFase</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b0f28f83fbf0a3e468736eb7ef3a1f10</guid>
+    <fileName>Assets/Scripts/SetasMovimento/BotaoBullet.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.260796-03:00</timeStamp>
+    <typeFullName>
+      <string>BotaoBullet</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0563b142258cbe94ca6c3371ef624616</guid>
+    <fileName>Assets/Scripts/SetasMovimento/Cima.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.2627903-03:00</timeStamp>
+    <typeFullName>
+      <string>Cima</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>453cb1c1aa08fef4dbb8d3f7107e1e72</guid>
+    <fileName>Assets/Scripts/SetasMovimento/Direita.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.2637882-03:00</timeStamp>
+    <typeFullName>
+      <string>Direita</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9f0e0a669f83ca6449cce76f8101fb36</guid>
+    <fileName>Assets/Scripts/SetasMovimento/Esquerda.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.2697718-03:00</timeStamp>
+    <typeFullName>
+      <string>Esquerda</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Scripts/Tool-UnityAssetCleaner/Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-09T16:51:26-02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.AssetCollector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Scripts/Tool-UnityAssetCleaner/Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T16:51:26-02:00</timeStamp>
+    <typeFullName>
+      <string>AssetReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Scripts/Tool-UnityAssetCleaner/Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T16:51:26-02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ClassReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Scripts/Tool-UnityAssetCleaner/Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-09T16:51:26-02:00</timeStamp>
+    <typeFullName>
+      <string>CollectionData</string>
+      <string>TypeDate</string>
+      <string>IReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Scripts/Tool-UnityAssetCleaner/Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-09T16:51:26-02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Scripts/Tool-UnityAssetCleaner/Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T16:51:26-02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>190049eff6cdfdf4da7f021260ea15a6</guid>
+    <fileName>Assets/Scripts/Transition/Fade/Fade.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.2727641-03:00</timeStamp>
+    <typeFullName>
+      <string>Fade</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6c69e1a0e7499fd4489c48758cb01fe4</guid>
+    <fileName>Assets/Scripts/Tutorial/TutoFase1.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.2817401-03:00</timeStamp>
+    <typeFullName>
+      <string>TutoFase1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>86eab1fb15480094f96118dd039cf0d9</guid>
+    <fileName>Assets/Scripts/Verificador De Cena/VerificadorDeCena.cs</fileName>
+    <timeStamp>2020-04-09T02:38:50.2857293-03:00</timeStamp>
+    <typeFullName>
+      <string>VerificadorDeCena</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>

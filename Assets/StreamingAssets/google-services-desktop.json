@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "233735980146",
+    "firebase_url": "https://roboeuroi.firebaseio.com",
+    "project_id": "roboeuroi",
+    "storage_bucket": "roboeuroi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233735980146:android:d1c24e673b45378a422eeb",
+        "android_client_info": {
+          "package_name": "com.LabTEd.RoboEuroi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233735980146-ralqumi3u78cnsoev7j12audtjm56j03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0IgOElnoen1BP29jtqJU678esQu_9P0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233735980146-ralqumi3u78cnsoev7j12audtjm56j03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

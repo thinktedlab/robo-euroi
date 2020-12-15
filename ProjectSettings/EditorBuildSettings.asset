@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AssetBundle/TelasLivres/PreCarregamento/CenaCarregamento.unity
+    guid: efe3c9d8592241d4196919b94121ad8e
+  - enabled: 1
+    path: Assets/AssetBundle/TelasLivres/PreCarregamento/Perfil.unity
+    guid: dddbb785f55c3e4469cf030c097dbd33
+  - enabled: 1
+    path: Assets/AssetBundle/TelasLivres/PreCarregamento/Login.unity
+    guid: 5151eba0e085d904491bccc7de8bc977
+  - enabled: 1
+    path: Assets/AssetBundle/TelasLivres/Menu.unity
+    guid: d9244811cfb2a5f4e94c4afb2ace83ad
+  - enabled: 1
+    path: Assets/AssetBundle/TelasLivres/StoryTelling.unity
+    guid: 46c7e96fb7a7ea041b96edb597f13e69
+  - enabled: 1
+    path: Assets/AssetBundle/TelasLivres/Info.unity
+    guid: 8d7adfc126bdfbc4191c98def12bd812
+  - enabled: 1
+    path: Assets/AssetBundle/SelecionsFase/SeletionFase1.unity
+    guid: 77253e344d0815d49a8a817e1aed9924
+  - enabled: 1
+    path: Assets/AssetBundle/TelasLivres/Insignias.unity
+    guid: 494766bcaa4d1dc4bafea873d89670b5
+  - enabled: 1
+    path: Assets/AssetBundle/Fases/Planeta1/Planeta1_Fase1.unity
+    guid: 31964925e95521546bc2e765cb76c64e
+  - enabled: 1
+    path: Assets/AssetBundle/TelasLivres/Agradecimento.unity
+    guid: dd2ef2a047f0d4b4faa46ca508150ff4
+  - enabled: 1
+    path: Assets/AssetBundle/Fases/Planeta1/Planeta1_Fase4.unity
+    guid: 79b1f238991e72d4a9a46c24cd5ef990
+  - enabled: 1
+    path: Assets/AssetBundle/Fases/Planeta1/Planeta1_Fase6.unity
+    guid: 6c877d162ba16d84faefa99ee1501cd6
+  - enabled: 1
+    path: Assets/AssetBundle/Fases/Planeta1/Planeta1_Fase5.unity
+    guid: 60f9023ad9f9d9143af894518d71a3ff
+  - enabled: 1
+    path: Assets/AssetBundle/Fases/Planeta1/Planeta1_Fase7.unity
+    guid: 50e0b66cc65fb3d4e86104dce9fca20c
+  - enabled: 1
+    path: Assets/AssetBundle/Fases/Planeta1/Planeta1_Fase8.unity
+    guid: 67eb5a22a36644e4885bfc17a0381c58
+  - enabled: 1
+    path: Assets/AssetBundle/Fases/Planeta1/Planeta1_Fase10.unity
+    guid: 91f3828aeb11c264ab94f807e85b0b1c
+  - enabled: 1
+    path: Assets/AssetBundle/Fases/Planeta1/Planeta1_Fase2.unity
+    guid: 7269b6ad7ad48b14abafc7e6bb16aa77
+  - enabled: 1
+    path: Assets/AssetBundle/Fases/Planeta1/Planeta1_Fase3.unity
+    guid: ba7a86933c4a1a8499c5d523dad96fec
+  - enabled: 1
+    path: Assets/AssetBundle/Fases/Planeta1/Planeta1_Fase9.unity
+    guid: ea8965045cc32364c8ed63ca55041cae
+  - enabled: 1
+    path: Assets/AssetBundle/Fases/Planeta1/Planeta1_Fase11.unity
+    guid: 77e55d8e3cc736341b6fd3576cc519d2
+  - enabled: 1
+    path: Assets/AssetBundle/Fases/Planeta1/Planeta1_Fase12.unity
+    guid: 5a0bdab5675976844b2aa2060216a3ff
+  - enabled: 1
+    path: Assets/AssetBundle/Fases/Planeta1/Planeta1_Fase1.2.unity
+    guid: d92678827d9dfc14da61142b4e1cf1ab
+  m_configObjects: {}
